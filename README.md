@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
   <img src="https://github.com/userravina/Mirror_wall/assets/120082785/7882aa81-7c0c-4b0a-aa3c-b5fa078ca697"  height="50%" width="30%">
   <img src="https://github.com/userravina/Mirror_wall/assets/120082785/e7b26308-40b9-43c9-a333-106f922d45ca"  height="50%" width="30%">l̥
  
-<video src = "https://github.com/userravina/Mirror_wall/assets/120082785/8c7d125f-6f64-4e0d-827f-cadbf8ed0bfa" height="1139px" width="351px">
+<video src = "https://github.com/userravina/Mirror_wall/assets/120082785/8c7d125f-6f64-4e0d-827f-cadbf8ed0bfa">
     </video>
 </p>
 
