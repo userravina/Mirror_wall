@@ -19,9 +19,9 @@ samples, guidance on mobile development, and a full API reference.
   <img src="https://github.com/userravina/Mirror_wall/assets/120082785/28fc6355-fa2d-4725-8eaf-0c7b9823365f"  height="50%" width="30%">
   <img src="https://github.com/userravina/Mirror_wall/assets/120082785/cfaa41ff-eba2-42d1-8961-ebf5a56d0e5c" height="50%" width="30%">
   <img src="https://github.com/userravina/Mirror_wall/assets/120082785/7882aa81-7c0c-4b0a-aa3c-b5fa078ca697"  height="50%" width="30%">
-  <img src="https://github.com/userravina/Mirror_wall/assets/120082785/e7b26308-40b9-43c9-a333-106f922d45ca"  height="50%" width="30%">l̥
+  <img src="https://github.com/userravina/Mirror_wall/assets/120082785/e7b26308-40b9-43c9-a333-106f922d45ca"  height="50%" width="30%">
  
-<video src = "https://github.com/userravina/Mirror_wall/assets/120082785/d4c6cd92-a14a-4928-9458-d3e27aca9d91"</video>
+<video src = "https://github.com/userravina/Mirror_wall/assets/120082785/d4c6cd92-a14a-4928-9458-d3e27aca9d91" height="50%" width="30%"</video>
 </p>
 
 
